@@ -20,6 +20,10 @@ body{
     object-fit: cover;
 }
 
+span{
+    color: rgb(242, 32, 9);
+}
+
 #Acerca-de-mi .card{
     border-color: crimson;
 }
